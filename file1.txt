@@ -1,2 +1,3 @@
 this is file1
 this is something new
+new function in file1
